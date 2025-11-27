@@ -9,8 +9,10 @@ The company behind the game can't really block it
 ## Installation:
 Just paste the d3d11 in your XXMI-Launcher-Portable-v1.9.2\Resources\Packages
 folder and click replace if asked
+Enable Unsafe mode in xxmi settings
 If you get the illegal tool error then simply download the new version of the dll and replace it
-Sadly you'd have to keep doing it till I decide to build an application that automatically does it for you
+Sadly you'd have to keep doing it till I decide to build an application that automatically does it for you or till hoyo decides to stop targetting injections which will make this fork obsolete lol
+
 
 
 
